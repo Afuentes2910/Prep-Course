@@ -1,0 +1,7 @@
+ `for` es un bucle que nos permite repetir una condicion hasta que se cumpla la misma sin la necesidad 
+ de repetir el codigo tantas veces.
+`&&`, `||`, `!` Los operadores logicos buleanos nos devuelven valores true or false en sus operaciones.
+EL && es un operador entre dos operandos que arrojan true si ambos son true, si uno es false retorna false.
+EL || es un operador entre dos operandos que arrojan true si ambos son true o uno de ellos lo es, solo es false
+en caso de que ambos lo sean.
+el operdador ! invierte el valor que tenga el operador, si es true pasa a ser false.
