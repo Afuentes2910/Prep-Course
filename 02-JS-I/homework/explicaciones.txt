@@ -2,4 +2,4 @@
  * Strings = son cadenas de texto que pueden incluir letras, numeros y simbolos, van siempre entre comillas.
  * Funciones (argumentos, `return`) = son pedazos de codigo que hacen que no se repita codigo.
  * Declaraciones `if' = palabra clave que introduce una condicion que se ejecuta  segun sea true o false
- * Valores booleanos (`true`, `false`) = tipo de valor que devuelve 2 valores true o  false.
+ * Valores  booleanos (`true`, `false`) = tipo de valor que devuelve 2 valores true o  false.
