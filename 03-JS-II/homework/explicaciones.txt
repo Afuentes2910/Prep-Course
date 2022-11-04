@@ -4,4 +4,4 @@
 EL && es un operador entre dos operandos que arrojan true si ambos son true, si uno es false retorna false.
 EL || es un operador entre dos operandos que arrojan true si ambos son true o uno de ellos lo es, solo es false
 en caso de que ambos lo sean.
-el operdador ! invierte el valor que tenga el operador, si es true pasa a ser false.
+el operdador ! invierte  el valor que tenga el operador, si es true pasa a ser false.
