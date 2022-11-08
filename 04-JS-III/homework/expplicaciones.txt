@@ -1,0 +1,2 @@
+Arrays:Son cajas donde se almacenan elementos, que pueden ser distintos tipos de valores y los elementos 
+comienzan a contar desde la posicion 0.
